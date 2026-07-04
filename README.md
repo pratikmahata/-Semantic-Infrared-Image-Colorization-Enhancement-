@@ -1,1 +1,1 @@
-# -Semantic-Infrared-Image-Colorization-Enhancement-
+# Semantic-Infrared-Image-Colorization-Enhancement-
